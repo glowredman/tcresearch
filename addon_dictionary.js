@@ -37,6 +37,14 @@ var addon_dictionary = {
 		  "apocalypse": ["greed", "eldritch"]
 	  }
   },
+  "tb": {
+	  "name": "Thaumic Boots",
+	  "aspects": ["space", "boots"],
+	  "combinations": {
+		  "space": ["crystal", "metal"],
+		  "boots": ["armor", "travel"]
+	  }
+  },
   "gtnh": {
 	  "name": "GTNH (2.1.3.0+)",
 	  "aspects": ["equality", "madness", "beginning", "constellation", "glory"],
